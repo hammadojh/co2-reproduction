@@ -1,0 +1,27 @@
+{
+  "configurations": 6615,
+  "states": 45,
+  "horizons": [
+    1,
+    2,
+    3,
+    5,
+    7,
+    10,
+    14
+  ],
+  "models": [
+    "ridge",
+    "gam",
+    "hgb"
+  ],
+  "variants": 7,
+  "original_27_features_only": true,
+  "all_metrics_recomputed_from_predictions": true,
+  "paired_dates_targets_and_counts": true,
+  "temporal_cutoffs_verified": true,
+  "pilot_cases_reproduced": 189,
+  "max_pilot_prediction_error": 0.0,
+  "source_data_and_prior_artifacts_unchanged": true,
+  "failed_configurations": 0
+}

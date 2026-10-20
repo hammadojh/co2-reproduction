@@ -1,0 +1,4 @@
+State,Horizon,ridge_alpha,ridge_val_r2,hgb_config,hgb_val_r2,n_selection_train,n_selection_val
+TX,7,0.1,0.4548,"{'learning_rate': 0.1, 'max_depth': 3, 'max_iter': 100, 'min_samples_leaf': 14}",0.3465,450,79
+PA,7,300.0,0.3864,"{'learning_rate': 0.1, 'max_depth': 2, 'max_iter': 80, 'min_samples_leaf': 10}",0.6306,450,79
+CA,7,0.1,0.6469,"{'learning_rate': 0.06, 'max_depth': 2, 'max_iter': 80, 'min_samples_leaf': 10}",0.7672,450,79

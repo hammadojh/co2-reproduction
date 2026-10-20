@@ -1,0 +1,84 @@
+{
+  "states": [
+    "AL",
+    "AR",
+    "AZ",
+    "CA",
+    "CO",
+    "CT",
+    "DE",
+    "FL",
+    "GA",
+    "IA",
+    "IL",
+    "IN",
+    "KS",
+    "KY",
+    "LA",
+    "MA",
+    "MD",
+    "MI",
+    "MN",
+    "MO",
+    "MS",
+    "MT",
+    "NC",
+    "ND",
+    "NE",
+    "NH",
+    "NJ",
+    "NM",
+    "NV",
+    "NY",
+    "OH",
+    "OK",
+    "OR",
+    "PA",
+    "RI",
+    "SC",
+    "SD",
+    "TN",
+    "TX",
+    "UT",
+    "VA",
+    "WA",
+    "WI",
+    "WV",
+    "WY"
+  ],
+  "horizon": 14,
+  "removals": {
+    "month": [
+      "month_sin",
+      "month_cos"
+    ],
+    "weekday": [
+      "dow_sin",
+      "dow_cos"
+    ],
+    "day_of_year": [
+      "doy_sin",
+      "doy_cos"
+    ],
+    "weekend": [
+      "is_weekend"
+    ],
+    "year": [
+      "year"
+    ],
+    "annual": [
+      "month_sin",
+      "month_cos",
+      "doy_sin",
+      "doy_cos"
+    ],
+    "weekly": [
+      "dow_sin",
+      "dow_cos",
+      "is_weekend"
+    ]
+  },
+  "expected": 945,
+  "workers": 6,
+  "protocol": "unchanged stage3_nationwide/case.py; paired full-feature complete cases; retune each variant"
+}

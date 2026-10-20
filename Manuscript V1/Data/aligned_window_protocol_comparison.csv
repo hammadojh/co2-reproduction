@@ -1,0 +1,7 @@
+State,Protocol,N,R2_ridge,R2_HGB,DM_stat,p
+CA,Fixed (no retraining),533,0.819,0.8031,-1.722,0.0856
+CA,Rolling (refit every 7d),533,0.8337,0.8125,-3.111,0.002
+PA,Fixed (no retraining),533,0.9243,0.9189,-0.951,0.342
+PA,Rolling (refit every 7d),533,0.9294,0.9248,-1.191,0.2343
+TX,Fixed (no retraining),533,0.7035,0.7439,2.056,0.0403
+TX,Rolling (refit every 7d),533,0.7451,0.758,1.196,0.2324

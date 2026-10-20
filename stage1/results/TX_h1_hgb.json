@@ -1,0 +1,58 @@
+{
+  "records": [
+    {
+      "state": "TX",
+      "horizon": 1,
+      "model": "hgb",
+      "repeat": 1,
+      "tuning_s": 0.7114410830035922,
+      "rolling_fit_s": 6.11395121201349,
+      "rolling_prediction_s": 0.052304528006061446,
+      "n_fits": 91,
+      "n_predictions": 1263,
+      "single_prediction_us": 327.33349871705286,
+      "R2": 0.8068830453336671,
+      "max_prediction_difference": 5.820766091346741e-11
+    },
+    {
+      "state": "TX",
+      "horizon": 1,
+      "model": "hgb",
+      "repeat": 2,
+      "tuning_s": 0.6785296670059324,
+      "rolling_fit_s": 6.092484913999215,
+      "rolling_prediction_s": 0.0448986230258015,
+      "n_fits": 91,
+      "n_predictions": 1263,
+      "single_prediction_us": 330.9794956294354,
+      "R2": 0.8068830453336671,
+      "max_prediction_difference": 5.820766091346741e-11
+    },
+    {
+      "state": "TX",
+      "horizon": 1,
+      "model": "hgb",
+      "repeat": 3,
+      "tuning_s": 0.6555609999995795,
+      "rolling_fit_s": 5.813359659994603,
+      "rolling_prediction_s": 0.04996482803107938,
+      "n_fits": 91,
+      "n_predictions": 1263,
+      "single_prediction_us": 325.8955002820585,
+      "R2": 0.8068830453336671,
+      "max_prediction_difference": 5.820766091346741e-11
+    }
+  ],
+  "process_peak_rss_mib": 258.609375,
+  "pre_fit_peak_rss_mib": 248.84375,
+  "threads": [
+    {
+      "user_api": "openmp",
+      "internal_api": "openmp",
+      "num_threads": 1,
+      "prefix": "libomp",
+      "filepath": "/Users/omarhammad/Documents/ChatGPT/Yusuf_new/.venv/lib/python3.14/site-packages/sklearn/.dylibs/libomp.dylib",
+      "version": null
+    }
+  ]
+}

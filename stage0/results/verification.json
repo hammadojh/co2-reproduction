@@ -1,0 +1,9 @@
+{
+  "exact_repeat_TX_h1": true,
+  "validated_combinations": 11,
+  "calendar_targets_valid": true,
+  "model_evaluation_dates_equal": true,
+  "training_cutoffs_valid": true,
+  "original_file_hashes_unchanged": 177,
+  "temporal_unit_tests_passed": 5
+}

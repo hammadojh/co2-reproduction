@@ -1,0 +1,4 @@
+State,N,DM(Ridge vs HGB) stat,p,DM(Ridge vs Persist) stat,p ,DM(HGB vs Persist) stat,p  ,BlockBoot CI (Ridge-HGB sqerr)
+TX,533,0.797,0.4255,-2.899,0.0037,-3.513,0.0004,"[-2.16e+08, 4.97e+08]"
+PA,533,-3.678,0.0002,-5.026,0.0,-0.895,0.3709,"[-7.80e+07, -2.28e+07]"
+CA,533,2.682,0.0073,-2.574,0.0101,-5.218,0.0,"[8.97e+06, 5.97e+07]"

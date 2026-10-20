@@ -1,0 +1,17 @@
+{
+  "platform": "macOS-15.6.1-arm64-arm-64bit-Mach-O",
+  "python": "3.14.0",
+  "source_hashes": {
+    "stage3/ablation.py": "90499102ab04b4c18e336021f15b8462459952ce4faba03b1d03dc45f5433cbe",
+    "stage2/features.py": "7616f7857d21c5c9bb17082a26682e5780ffbe1e2c87a00f7178b30c7afeebcd",
+    "stage1/benchmark.py": "8f9c99c03d834cafce8865401a1b7d3cd4efc7d6c30241bc9dda4de930154ab7",
+    "stage0/baseline.py": "f8f0a665a640555ed615a5e5560bcb321796d97755f3474f7e347c9256f1a868",
+    "stage0/original_definitions.py": "9bf3003d3faf535b40f0d1fd1d61bbe57c2ce692a064eaa0ea582e132dd5376f",
+    "stage0/requirements.lock.txt": "bcb7ecde031ef66666c56989bfca42e7d901d18a5f446d992429c309264d7d41",
+    "stage2/results/candidate_plan.json": "7b78405c5eea39b8fc090a927a31a7fb5b517b0c7089fb89235b9cef7f17ff00"
+  },
+  "threads": 1,
+  "repeats": 1,
+  "memory_scope": "one process per model/variant, all nine pilot cases",
+  "timing_scope": "single full run per case; 100 final-model one-row prediction calls"
+}

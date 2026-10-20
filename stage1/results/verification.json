@@ -1,0 +1,9 @@
+{
+  "trials": 81,
+  "workloads": 27,
+  "max_absolute_prediction_difference": 1.1641532182693481e-10,
+  "native_thread_counts": [
+    1
+  ],
+  "original_files_unchanged": 177
+}

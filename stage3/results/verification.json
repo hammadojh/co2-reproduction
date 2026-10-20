@@ -1,0 +1,11 @@
+{
+  "configurations": 216,
+  "paired_dates_verified": true,
+  "temporal_cutoffs_verified": true,
+  "original_files_unchanged": 177,
+  "candidate_plan_unchanged": true,
+  "baseline_population_matches_original": 27,
+  "baseline_max_prediction_error": 1.1641532182693479e-10,
+  "memory_workers": 24,
+  "single_native_thread_verified": true
+}

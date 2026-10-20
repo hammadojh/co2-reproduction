@@ -1,0 +1,3 @@
+State,Ridge_alpha,HGB_config,R2_ridge,R2_HGB,DM_stat,p
+CA,4.520353656360241,"{'learning_rate': 0.06494669413444285, 'max_depth': 4, 'max_iter': 73, 'min_samples_leaf': 42}",0.8332,0.8222,-1.307,0.1918
+TX,230.18073130224653,"{'learning_rate': 0.1305841466294768, 'max_depth': 2, 'max_iter': 244, 'min_samples_leaf': 7}",0.7355,0.7542,1.268,0.2053

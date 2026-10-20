@@ -1,0 +1,7 @@
+State,Horizon,N_test,ridge_alpha,ridge_val_r2,hgb_val_r2,n_inner_train,n_inner_val,hgb_config
+TX,1,161,1000,0.6705,0.774,745,159,"{'learning_rate': 0.06, 'max_depth': 5, 'max_iter': 100, 'min_samples_leaf': 25}"
+PA,1,161,3,0.9385,0.9362,745,159,"{'learning_rate': 0.1, 'max_depth': 2, 'max_iter': 80, 'min_samples_leaf': 10}"
+CA,1,161,200,0.6516,0.6314,745,159,"{'learning_rate': 0.1, 'max_depth': 3, 'max_iter': 100, 'min_samples_leaf': 14}"
+TX,7,160,1000,0.4427,0.5545,741,158,"{'learning_rate': 0.03, 'max_depth': 3, 'max_iter': 150, 'min_samples_leaf': 14}"
+PA,7,160,300,0.5069,0.6802,741,158,"{'learning_rate': 0.06, 'max_depth': 5, 'max_iter': 100, 'min_samples_leaf': 25}"
+CA,7,160,300,0.0479,-0.3636,741,158,"{'learning_rate': 0.03, 'max_depth': 2, 'max_iter': 100, 'min_samples_leaf': 10}"

@@ -1,0 +1,9 @@
+region,horizon,metric,wins,n
+Northeast,1,ridge_wins_1d,7,8
+Northeast,7,hgb_wins_7d,8,8
+Midwest,1,ridge_wins_1d,8,12
+Midwest,7,hgb_wins_7d,11,12
+South,1,ridge_wins_1d,15,16
+South,7,hgb_wins_7d,16,16
+West,1,ridge_wins_1d,11,11
+West,7,hgb_wins_7d,10,11

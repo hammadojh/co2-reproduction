@@ -1,0 +1,24 @@
+{
+  "configurations": 189,
+  "original_primary_features_only": true,
+  "paired_dates_and_counts": true,
+  "temporal_checks": true,
+  "baseline_predictions_max_error": 1.1641532182693479e-10,
+  "original_files_unchanged": 177,
+  "source_hashes_verified": true,
+  "models": [
+    "ridge",
+    "gam",
+    "hgb"
+  ],
+  "states": [
+    "TX",
+    "PA",
+    "CA"
+  ],
+  "horizons": [
+    1,
+    7,
+    14
+  ]
+}

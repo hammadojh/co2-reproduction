@@ -1,0 +1,11 @@
+Column,Missing_count,Missing_percent
+state,0,0.0
+facility_name,0,0.0
+facility_id,0,0.0
+date,0,0.0
+gross_load_mwh,614268,43.37548476023964
+steam_load,1344673,94.95178524521172
+so2_mass,605873,42.782686186063195
+co2_mass,609842,43.06295033626049
+nox_mass,552909,39.04272386531503
+heat_input,553703,39.0987908180126

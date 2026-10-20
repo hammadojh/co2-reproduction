@@ -1,0 +1,18 @@
+{
+  "settings": {
+    "ridge": 1000,
+    "hgb": {
+      "learning_rate": 0.1,
+      "max_depth": 2,
+      "max_iter": 80,
+      "min_samples_leaf": 10
+    },
+    "gam": 10
+  },
+  "tuning": {
+    "train_end": "2022-01-04 00:00:00",
+    "validation_start": "2022-01-04 00:00:00",
+    "validation_target_end": "2022-07-17 00:00:00",
+    "selection_cutoff": "2022-07-17 00:00:00"
+  }
+}
