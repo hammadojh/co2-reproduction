@@ -4,7 +4,7 @@ Code, input aggregates, summary results and author revision materials for the co
 
 ## Download the complete reproducible snapshot
 
-**[Download the full package from release v1.0.0](https://github.com/hammadojh/yusuf-co2-reproduction/releases/tag/v1.0.0)**
+**[Download the full package from release v1.0.0](https://github.com/hammadojh/co2-reproduction/releases/tag/v1.0.0)**
 
 The release ZIP is the complete, validated snapshot, including every saved prediction, fitting audit, checkpoint and integrity manifest. This Git repository is a browsable subset: it omits bulky per-case predictions, checkpoints and audits. For the supported reproduction commands, extract the release ZIP and work inside its `Yusuf_CO2_reproduction` folder. Do not run archive verification from this smaller Git checkout.
 
